@@ -12,7 +12,7 @@ public class SumOfNaturalNumber {
 		for(int i=1; i<=num; i++) {
 		  sum=num+i;
 		}
-			System.out.println("Tne sum of " +num+ " natural number = " +sum );
+			System.out.println("Tne sum  " +num+ " natural number = " +sum );
 			scan.close();
 	}
 
